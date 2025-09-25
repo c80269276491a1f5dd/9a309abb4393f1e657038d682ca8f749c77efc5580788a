@@ -16,7 +16,7 @@ body {
 
 body.mainpage {
 	background: #C5AD99;
-	background-image: url(../img/ba.gif);
+	background-image: url(ba.gif);
 	color: #000000;
 }
 body.threadpage {
